@@ -1,4 +1,0 @@
-pytest >=  5.3.5
-pycryptodome == 3.9.0
-crypto >= 1.4.1
-
