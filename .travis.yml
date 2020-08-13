@@ -5,8 +5,8 @@ python:
 services:
   - docker
 
-before_script: echo "HELLO WORLD!"
+install:
+  - pip install -r requirements.txt
 
 script:
-  - echo "HI"
-
+  - python -m pytest
