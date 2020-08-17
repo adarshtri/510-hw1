@@ -19,3 +19,4 @@ Explored- travis.yml, CONTRIBUTION.MD, and other git repo files.
 2) Ayushi Rajendra Kumar
 3) Prithviraj Choudhury
 4) Prithvi Patel
+5) Rashi Agarwal
