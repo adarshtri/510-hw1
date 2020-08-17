@@ -92,6 +92,11 @@ Please follow these steps to have your contribution considered by the maintainer
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
+Please include the following while creating a Pull Request:
+
+* Link to the issue it addresses, if issues exist.
+* A short description of what the Pull Request fixes or does (in case of a feature)
+
 ## Styleguides
 
 ### Git Commit Messages
