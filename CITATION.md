@@ -1,5 +1,5 @@
 # Citation
-Cite as
+Cite as  
 Adarsh Trivedi, Rashi0911, Ayushi61, & Prithviraj Chaudhuri. (2020, August 14).  
 adarshtri/510-hw1: 1.0-beta (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3984249
 
