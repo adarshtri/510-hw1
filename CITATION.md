@@ -1,5 +1,5 @@
 # Citation
-Cite as. 
+Cite as   
 Adarsh Trivedi, Ayushi Rajendra Kumar, Prithviraj Chaudhuri, Rashi0911, & Prithvi Patel. (2020, August 17).   
 adarshtri/510-hw1: v1.0-final (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3988485
 
